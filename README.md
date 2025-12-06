@@ -1,0 +1,1 @@
+Developed a web-based management system for student registration, instructor assignment, scheduling, and performance reporting. The system includes role-based dashboards for admins, instructors, and students, enabling efficient tracking of progress and secure data handling using PHP and MySQL.
